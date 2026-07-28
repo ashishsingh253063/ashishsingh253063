@@ -39,6 +39,11 @@ National Level Winner • College Winner
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishsingh253063&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishsingh253063&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+ 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishsingh253063&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 Achievements
 
