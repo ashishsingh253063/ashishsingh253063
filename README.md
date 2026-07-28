@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=2x+Hackathon+Winner;National+Level+Champion;AI+Builder;B.Tech+CSE+Student;Always+Learning+Something+New" />
+</p>
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 
 <h3 align="center">
