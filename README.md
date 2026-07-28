@@ -44,6 +44,11 @@ National Level Winner • College Winner
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ashishsingh253063&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishsingh253063&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 ## 🏆 Achievements
 
