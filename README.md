@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 
-<!--
-**ashishsingh253063/ashishsingh253063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🏆 2× Hackathon Winner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+National Level Winner • College Winner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Learning Full Stack Development
+- 🤖 AI Enthusiast
+- 🌱 Currently learning DSA
+
+---
+
+## 🏆 Achievements
+
+🥇 National Level Hackathon Winner
+
+🥇 College Hackathon Winner
+
+🏅 Team Leader
+
+---
+
+## 📌 Featured Projects
+
+- Reverse Orbit
+- Reverse Orbit LLM
+- Passwordless Authentication
