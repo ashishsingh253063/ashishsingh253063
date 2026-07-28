@@ -12,6 +12,9 @@ National Level Winner • College Winner
 </p>
 
 ---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,linux,html,css,js"/>
+</p>
 
 ## 🚀 About Me
 
@@ -31,12 +34,6 @@ National Level Winner • College Winner
 🏅 Team Leader
 
 ---
-
-## 📌 Featured Projects
-
-- Reverse Orbit
-- Reverse Orbit LLM
-- Passwordless Authentication
 
 ## 📌 Featured Projects
 
