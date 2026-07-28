@@ -47,8 +47,8 @@ National Level Winner • College Winner
 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishsingh253063&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishsingh253063&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+</p>>
 
 ## 🏆 Achievements
 
