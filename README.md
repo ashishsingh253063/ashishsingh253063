@@ -53,3 +53,5 @@ National Level Winner • College Winner
 - Passwordless Authentication
 
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
