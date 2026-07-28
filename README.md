@@ -33,7 +33,7 @@ National Level Winner • College Winner
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,linux&theme=dark" />
 </p>
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishsingh253063&show_icons=true&theme=tokyonight&hide_border=true" />
