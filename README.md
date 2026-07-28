@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=2x+Hackathon+Winner;National+Level+Champion;AI+Builder;B.Tech+CSE+Student;Always+Learning+Something+New" />
 </p>
-<h1 align="center">Hi ></p>, I'm Ashish Singh</h1>
+<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 
 <h3 align="center">
 🏆 2× Hackathon Winner
@@ -15,9 +15,6 @@ National Level Winner • College Winner
 </p>
 
 ---
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,linux,html,css,js"/>
-</p>
 
 ## 🚀 About Me
 
@@ -43,4 +40,3 @@ National Level Winner • College Winner
 - Reverse Orbit
 - Reverse Orbit LLM
 - Passwordless Authentication
-
