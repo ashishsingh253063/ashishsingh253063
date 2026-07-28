@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashish%20Singh&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=2x%20Hackathon%20Winner%20|%20AI%20Builder&descAlignY=60"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=2x+Hackathon+Winner;National+Level+Champion;AI+Builder;B.Tech+CSE+Student;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=🏆+2×+Hackathon+Winner;🚀+AI+Builder;💻+B.Tech+CSE+Student;✨+Building+Ideas+Into+Reality" />
 </p>
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 
