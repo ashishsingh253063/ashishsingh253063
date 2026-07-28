@@ -14,6 +14,7 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 
 <h3 align="center">
 🏆 2× Hackathon Winner
@@ -23,7 +24,7 @@
 National Level Winner • College Winner
 </p>
 
----
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 
 ## 🚀 About Me
 
@@ -32,7 +33,7 @@ National Level Winner • College Winner
 - 🤖 AI Enthusiast
 - 🌱 Currently learning DSA
 
----
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 
 ## 🏆 Achievements
 
@@ -42,10 +43,12 @@ National Level Winner • College Winner
 
 🏅 Team Leader
 
----
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 
 ## 📌 Featured Projects
 
 - Reverse Orbit
 - Reverse Orbit LLM
 - Passwordless Authentication
+
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
