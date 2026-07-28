@@ -29,10 +29,9 @@ National Level Winner • College Winner
 - 💻 Learning Full Stack Development
 - 🤖 AI Enthusiast
 - 🌱 Currently learning DSA
-- <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,html,css,js"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,linux&theme=dark" />
 </p>
-
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 ## 📊 GitHub Stats
 
